@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\nrtc_setting_pref.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\xml\\nrtc_setting_pref.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\xml\\leak_canary_file_paths.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\xml\\leak_canary_file_paths.xml"
+    }
+]

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s (%2$s)：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"顯示全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"啟用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必須啟用 Google Play 服務，方可執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"啟用 Google Play 服務"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安裝"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"您的裝置尚未安裝 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"安裝 Google Play 服務"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 服務錯誤"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」存取 Google Play 服務時發生問題。請稍後再試一次。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"您的裝置不支援 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必須更新「Google Play 服務」，才能執行 <ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服務"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"正在更新 Google Play 服務，更新完成後方可執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"需要使用新版本的 Google Play 服務。更新會即將自動開始。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手機開啟"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登入"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"透過 Google 登入"</string>
+    <string name="connect_server_fail_prompt_toast">"無法連線伺服器，請稍後重試"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"其他"</string>
+    <string name="getting_message_fail_prompt_toast">"無法獲取資訊，請稍後重試"</string>
+    <string name="hms_abort" priority="translator">"停止"</string>
+    <string name="hms_abort_message" priority="translator">"停止下載？"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s 無法正常使用華為流動服務。請嘗試開啟「手機總管」或「設定」，開啟%2$s的所有權限（包含「自動啟動」、「第二次啟動」等），並重試。"</string>
+    <string name="hms_cancel" priority="translator">"取消"</string>
+    <string name="hms_check_failure" priority="translator">"檢查更新失敗。"</string>
+    <string name="hms_check_no_update" priority="translator">"您現在使用的已是最新版本。"</string>
+    <string name="hms_checking" priority="translator">"正在檢查更新…"</string>
+    <string name="hms_confirm" priority="translator">"確定"</string>
+    <string name="hms_download_failure" priority="translator">"下載「華為流動服務」程式套件失敗。"</string>
+    <string name="hms_download_no_space" priority="translator">"空間不足，無法完成下載。"</string>
+    <string name="hms_download_retry" priority="translator">"下載失敗，再試一次？"</string>
+    <string name="hms_downloading" priority="translator">"正在下載「華為流動服務」| 進度：%d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"載入中"</string>
+    <string name="hms_downloading_new" priority="LT">"正在載入華為流動服務"</string>
+    <string name="hms_gamebox_name" priority="translator">"遊戲中心"</string>
+    <string name="hms_install" priority="translator">"安裝"</string>
+    <string name="hms_install_message" priority="translator">"必須安全華為流動服務才可使用此功能。是否安裝？"</string>
+    <string name="hms_push_channel" priority="translator">"預設"</string>
+    <string name="hms_retry" priority="translator">"重試"</string>
+    <string name="hms_update" priority="translator">"更新"</string>
+    <string name="hms_update_message" priority="translator">"更新至最新的「華為流動服務」版本即可使用此功能，立即更新？"</string>
+    <string name="hms_update_message_new" priority="LT">"該服務需安裝以下應用程式的最新版本才能使用：\n\n·%1$s"</string>
+    <string name="hms_update_title" priority="translator">"華為流動服務"</string>
+    <string name="no_available_network_prompt_toast">"沒有互聯網連接，請檢查您的網絡設定。"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999 +"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"取消安裝？"</string>
+    <string name="third_app_dl_install_failed">"無法安裝"</string>
+    <string name="third_app_dl_sure_cancel_download">"取消安裝"</string>
+    <string name="upsdk_app_dl_installing">"正在下載應用程式中心"</string>
+    <string name="upsdk_app_download_info_new">"安裝"</string>
+    <string name="upsdk_app_size">"大小"</string>
+    <string name="upsdk_app_version">"版本"</string>
+    <string name="upsdk_cancel">"取消"</string>
+    <string name="upsdk_checking_update_prompt">"正在檢查更新，請稍候…"</string>
+    <string name="upsdk_choice_update">"有可用的更新，快去更新。"</string>
+    <string name="upsdk_detail">"詳細資訊"</string>
+    <string name="upsdk_install">"需安裝應用程式中心以進行更新。立即安裝？"</string>
+    <string name="upsdk_ota_app_name">"應用程式"</string>
+    <string name="upsdk_ota_cancel">"稍後"</string>
+    <string name="upsdk_ota_force_cancel_new">"退出應用程式"</string>
+    <string name="upsdk_ota_notify_updatebtn">"立即更新"</string>
+    <string name="upsdk_ota_title">"發現新版本"</string>
+    <string name="upsdk_update_check_no_new_version">"您現在使用的已是最新版本"</string>
+    <string name="upsdk_updating">"更新中"</string>
+</resources>

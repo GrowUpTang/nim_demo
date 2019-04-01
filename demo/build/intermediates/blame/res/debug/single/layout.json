@@ -1,0 +1,1550 @@
+[
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_fragment_red_packet_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_fragment_red_packet_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_item_trade_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_trade_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\file_transfer_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\file_transfer_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_history_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\message_history_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_audio.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_audio.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_popup_menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_reset_pwd.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_reset_pwd.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_base.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\setting_item_base.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_refuse_receive_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_refuse_receive_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_default_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_actions_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_activity_actions_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_fragment_container.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\main_tab_fragment_container.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_set_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\user_profile_set_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_chat_room_message_fragment.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_chat_room_message_fragment.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_record_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_record_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_member_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\online_people_fragment.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\online_people_fragment.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_message_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_message_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_my_wallet.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_my_wallet.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_b_title_bar.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_title_bar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_ait_contact_robot_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_ait_contact_robot_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_list_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_member_list_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_setting_bank_cark_list.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_setting_bank_cark_list.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\red_packet_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\layout\\red_packet_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_fragment_trade_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_fragment_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_video_center_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_video_center_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_trade_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_rp_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_add_card_second.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_add_card_second.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multi_select_dialog_bottom_button.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\multi_select_dialog_bottom_button.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\push_pure_pic_notification.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-internal-3.6.3.aar\\e99524b34c36e46f9c242ff22b55a898\\res\\layout\\push_pure_pic_notification.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_robot_image.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_robot_image.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\black_list_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\black_list_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_pic_video_menu_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_watch_pic_video_menu_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_bottom_button.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contact_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_recent_contact_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_video_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_watch_video_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_send_single_peak.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_send_single_peak.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\file_browser_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\file_browser_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_edit_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\user_profile_edit_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\group_list_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\group_list_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_camera_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_preview_image_from_camera_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_custom_view.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_action_bar_custom_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contacts_select.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_picker_preview.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_action_bar_right_picker_preview.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_emoji_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_system_notification_view_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\message_system_notification_view_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_fragment_trade_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_fragment_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_preview_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_unknown.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_unknown.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\map_view_amap_navigation_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\map_view_amap_navigation_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_tab.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_tab.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\hms_download_progress.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.6.0.301.aar\\62c8574ff66513e893111922a004fb78\\res\\layout\\hms_download_progress.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\user_profile_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_select_change.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_select_change.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\session_list.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\session_list.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_b_floating_label_text_view.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_floating_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_picture.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_picture.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chatroom_rock_paper_scissors.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chatroom_rock_paper_scissors.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_dialog_open_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_open_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multi_select_dialog_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\multi_select_dialog_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_add_card_second.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_add_card_second.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_dialog_select_pay_type.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_dialog_select_pay_type.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_getdeposit.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_getdeposit.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_divider_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_bottom_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_activity_bottom_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_pwd_check.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_pwd_check.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_gender_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\user_profile_gender_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_setting_pswd.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_setting_pswd.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_snapchat.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\nim_message_item_snapchat.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_adapter_banklist_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_adapter_banklist_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_menu_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photo_grid_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_dialog_paytype.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_paytype.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_new_card.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_new_card.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_header_receive_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_header_receive_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_grid_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_member_grid_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_images_fragment.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_images_fragment.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_my_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_my_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout4.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ddc1bfbe407bba430909684b13764c91\\res\\layout\\hwpush_layout4.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\func_contacts_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\func_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_msg_list_fetch_load_more.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_msg_list_fetch_load_more.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_fragment_red_packet_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_fragment_red_packet_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_rp_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_avchat_voice_mute_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\team_avchat_voice_mute_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\send_ack_msg_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\send_ack_msg_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout2.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ddc1bfbe407bba430909684b13764c91\\res\\layout\\hwpush_layout2.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_barrage.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_barrage.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_listview.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_easy_alert_dialog_with_listview.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_location.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_location.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_voice_trans_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_voice_trans_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\faceu_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\faceunity\\build\\intermediates\\bundles\\debug\\res\\layout\\faceu_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_bank_setting.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_bank_setting.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_progress_dialog.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_easy_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_header_rp_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_header_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_open_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_open_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\master_fragment.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\master_fragment.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\rts_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\layout\\rts_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_rp_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_rp_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_my_bank_card.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_my_bank_card.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_select_area_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contact_select_area_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\ack_msg_info_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\ack_msg_info_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\black_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\black_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_select_sub_bank.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_select_sub_bank.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_list.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\contacts_list.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\global_search_result.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\global_search_result.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_dialog_paytype_old_card_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_paytype_old_card_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_time_text_view_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_time_text_view_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\video_call_bottom_switch_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\video_call_bottom_switch_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_header_receive_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_header_receive_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_avchat.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_avchat.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\add_friend_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\add_friend_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_item_rp_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_layout_actionbar.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_layout_actionbar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contacts.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pick_image_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_pick_image_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\settings_logout_footer.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\settings_logout_footer.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_search_list_view_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\message_search_list_view_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\rock_paper_scissors.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\rock_paper_scissors.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_trans_succ.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_succ.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\me_list.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\me_list.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_tab.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\activity_main_tab.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\unread_ack_msg_fragment.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\unread_ack_msg_fragment.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_name_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_name_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_popup_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_trade_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trade_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\push_expandable_big_image_notification.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-internal-3.6.3.aar\\e99524b34c36e46f9c242ff22b55a898\\res\\layout\\push_expandable_big_image_notification.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_zbra_loading_progress_bar.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_zbra_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_avchat_holder.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\team_avchat_holder.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multiport_status_bar.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\multiport_status_bar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_trans_account.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_account.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\icon_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\icon_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_identity_authen.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_identity_authen.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\network_status_bar.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\network_status_bar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_loading_frame.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contact_loading_frame.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_b_textview.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_textview.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_media_item_normal.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_media_item_normal.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_round_loading_progress_bar.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_round_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_set_pay_pwd.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_set_pay_pwd.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_video_permission_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_video_permission_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout7.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ddc1bfbe407bba430909684b13764c91\\res\\layout\\hwpush_layout7.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_fragment_getdeposit.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_fragment_getdeposit.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_dialog_select_sub_bank.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_dialog_select_sub_bank.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_base_dialog.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_base_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_sticker_picker_view.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_sticker_picker_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_limit_dialog.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_limit_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_account_info.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_account_info.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multi_select_dialog_default_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\multi_select_dialog_default_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_header_send_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_header_send_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_robot.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_robot.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_migration.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\activity_msg_migration.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_create_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_dialog_paytype_balance_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_dialog_paytype_balance_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_fragment.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_fragment.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_mass_message_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_mass_message_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\effect_and_filter_item_view.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\faceunity\\build\\intermediates\\bundles\\debug\\res\\layout\\effect_and_filter_item_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_photofolder_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_photofolder_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_robot_link.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_robot_link.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_avchat_call_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\team_avchat_call_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_notification.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_notification.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_fragment.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_fragment.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\js_bridge_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\js_bridge_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_icons_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ddc1bfbe407bba430909684b13764c91\\res\\layout\\hwpush_icons_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_birth_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\user_profile_birth_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multiport_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\multiport_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_send_group_peak.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_send_group_peak.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_add_card_first.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_add_card_first.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_select_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contacts_select_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\upsdk_app_dl_progress_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.6.0.301.aar\\62c8574ff66513e893111922a004fb78\\res\\layout\\upsdk_app_dl_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_recharge.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_recharge.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_custom_dialog_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_custom_dialog_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_privatization_config.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\activity_privatization_config.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_check_userinfo.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_check_userinfo.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_verification_code_dialog.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_verification_code_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_trans_repeat_dialog.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_trans_repeat_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_ait_contact_team_member_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_ait_contact_team_member_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_robot_text.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_robot_text.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\user_profile_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_menu_dialog.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_menu_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_emoji_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_emoji_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_avchat_surface_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\team_avchat_surface_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_new_message_tip_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_new_message_tip_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_browsers.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_browsers.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_trans_tip_dialog.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_trans_tip_dialog.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_avchat_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\team_avchat_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multiport_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\multiport_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_trans_pay.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_pay.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_member_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_member_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\no_disturb_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\no_disturb_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_listview_refresh.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_listview_refresh.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_recent_contacts.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_recent_contacts.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_search_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\nim_advanced_team_search_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_custom_notification.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\item_custom_notification.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_trade_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_trade_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_layout_titlebar.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_layout_titlebar.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\system_notification_message_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\system_notification_message_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_image_folder_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_image_folder_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_robot_profile.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\activity_robot_profile.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\multi_select_dialog_title.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\multi_select_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_black_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_popup_menu_black_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_info_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\message_info_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_picture_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_watch_picture_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_media_download_progress_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_watch_media_download_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_name_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_name_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_read_recipt_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_read_recipt_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_dialog_input_pwd.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_dialog_input_pwd.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_media_item_date.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_media_item_date.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_image_layout_multi_touch.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_divider_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_info_divider_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_ait_contact_label_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_ait_contact_label_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\online_people_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\online_people_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_trade_history_buttom.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_trade_history_buttom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_main.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\tab_layout_main.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\team_avchat_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\team_avchat_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_select_pay_type.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_select_pay_type.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_list_activity_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_list_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_support_bank_card.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_support_bank_card.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_announce_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_surface_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_surface_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_master_tab.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_master_tab.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_from_local_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_preview_image_from_local_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_trans_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trans_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\ack_msg_detail_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\ack_msg_detail_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_b_dialog_pwd_error.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_dialog_pwd_error.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\file_download_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\file_download_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_update_pwd.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_update_pwd.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_webview.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_webview.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_bank_cark_list.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_bank_cark_list.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_message_tab.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_message_tab.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_abc_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contacts_abc_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\red_packet_open_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\layout\\red_packet_open_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\video_switch_audio_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\video_switch_audio_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_team_info_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_team_info_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_sticker.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\nim_message_item_sticker.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_audio_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_audio_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_header_rp_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_header_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_pull_to_refresh_header_custom.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_pull_to_refresh_header_custom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_zoom_control.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_preview_image_layout_zoom_control.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_popup_menu_list_black_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_popup_menu_list_black_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_create_announce.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_create_announce.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_picker_album_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_picker_album_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_check_auth.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_check_auth.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_en_browser.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_en_browser.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_text.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_text.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_search_empty_view.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\message_search_empty_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\ack_msg_unread_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\ack_msg_unread_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_join_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\nim_advanced_team_join_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\upsdk_ota_update_view.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.6.0.301.aar\\62c8574ff66513e893111922a004fb78\\res\\layout\\upsdk_ota_update_view.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_activity_text_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_activity_text_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_crop_image_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_crop_image_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_video.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_video.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_preview_image_layout_multi_touch.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_capture_video_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_capture_video_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_title.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_easy_alert_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_item_list_buttom.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_list_buttom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_actions_item_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_actions_item_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_video_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_video_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_bank_card_list.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_bank_card_list.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile_edittext_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\user_profile_edittext_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_add_card_first.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_add_card_first.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_member_info_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_announce.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_announce.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_trade_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_trade_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_nickname_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_nickname_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_b_divider.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_divider.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\ack_msg_readed_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\ack_msg_readed_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_add_card.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_add_card.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_my_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_my_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_rts.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\nim_message_item_rts.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_action_bar_right_clickable_tv.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_user_profile_toggle_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_user_profile_toggle_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_layout_line.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_layout_line.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_item_rp_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_item_rp_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\map_view_amap_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\map_view_amap_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\about_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\about_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout8.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ddc1bfbe407bba430909684b13764c91\\res\\layout\\hwpush_layout8.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_header_send_rp.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_header_send_rp.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\global_search_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\global_search_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\message_search_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\message_search_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_rp_detail.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_rp_detail.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_file.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\nim_message_item_file.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\push_expandable_big_text_notification.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-internal-3.6.3.aar\\e99524b34c36e46f9c242ff22b55a898\\res\\layout\\push_expandable_big_text_notification.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_watch_snapchat_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_watch_snapchat_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_advanced_team_info_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_advanced_team_info_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_people_tab.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_people_tab.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mylist.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\fragment_mylist.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_add_bank_card.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_add_bank_card.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_secure_setting.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_secure_setting.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\file_browser_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\file_browser_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_trade_history.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_trade_history.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_message_item_thumb_progress_bar_text.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_message_item_thumb_progress_bar_text.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6c40685aa08d2e7e0334c6a3a2230a1c\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_rooms.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_rooms.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contact_text_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contact_text_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_activity_get_pwd.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_activity_get_pwd.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_simple_load_more.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_simple_load_more.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_audio_control_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_audio_control_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_buttons_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ddc1bfbe407bba430909684b13764c91\\res\\layout\\hwpush_buttons_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\avchat_settings_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\layout\\avchat_settings_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_b_dialog_progress.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_contacts_count_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\layout\\nim_contacts_count_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_item_list_buttom.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_item_list_buttom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\amap_marker_window_info.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\amap_marker_window_info.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_pay_type.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_pay_type.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\settings_activity.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\nim_robot_list_item.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\nim_robot_list_item.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_w_layout_line_959595.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_w_layout_line_959595.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_b_gridpasswordview.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_b_gridpasswordview.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_room_tab_layout.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\chat_room_tab_layout.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\jrmf_rp_activity_certification.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\layout\\jrmf_rp_activity_certification.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\no_disturb_footer.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\layout\\no_disturb_footer.xml"
+    }
+]

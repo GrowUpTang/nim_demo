@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перайсці на галоўную старонку"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перайсці ўверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Дадатковыя параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Гатова"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Прагледзець усё"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбраць праграму"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ВЫКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"УКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Пошук..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Выдалiць запыт"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Запыт на пошук"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Адправіць запыт"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Галасавы пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Абагуліць з"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Абагуліць з %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згарнуць"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Уключыць"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць, пакуль вы не ўключыце службы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Уключыць службы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Усталяваць"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Атрымаць службы Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Памылка службаў Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"У праграмы <ns1:g id="APP_NAME">%1$s</ns1:g> узніклі праблемы са службамі Google Play. Паўтарыце спробу."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Абнавіць"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць, пакуль вы не абновіце службы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Абнаўленне службаў Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Адкрыць на тэлефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Увайсцi"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Увайсці праз Google"</string>
+    <string name="connect_server_fail_prompt_toast">"Немагчыма падлучыцца да серверу. Калі ласка, паспрабуйце пазней."</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Рознае"</string>
+    <string name="getting_message_fail_prompt_toast">"Немагчыма атрымаць даныя. Калі ласка, паспрабуйце пазней."</string>
+    <string name="hms_abort" priority="translator">"Спыніць"</string>
+    <string name="hms_abort_message" priority="translator">"Спыніць спампоўку?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s не можа выкарыстоўваць Мабільныя службы Huawei. Запусціце Дыспетчар тэлефона ці перайдзіце ў Налады, уключыце ўсе дазволы для %2$s (уключаючы аўтаматычны і другасны запускі) і паўтарыце спробу."</string>
+    <string name="hms_cancel" priority="translator">"Адмяніць"</string>
+    <string name="hms_check_failure" priority="translator">"Не ўдалося праверыць наяўнасць абнаўленняў."</string>
+    <string name="hms_check_no_update" priority="translator">"Вы ўжо карыстаецеся апошняй версіяй."</string>
+    <string name="hms_checking" priority="translator">"Праверка абнаўленняў…"</string>
+    <string name="hms_confirm" priority="translator">"ОК"</string>
+    <string name="hms_download_failure" priority="translator">"Не атрымалася спампаваць пакет Паслуг Мабільнай Сувязі Huawei."</string>
+    <string name="hms_download_no_space" priority="translator">"Недастаткова свабоднага месца. Немагчыма завяршыць спампоўку."</string>
+    <string name="hms_download_retry" priority="translator">"Памылка падчас спампоўкі. Паўтарыць спробу?"</string>
+    <string name="hms_downloading" priority="translator">"Спампоўка пакета Паслуг Мабільнай Сувязі Huawei | прагрэс: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Ідзе спампоўка"</string>
+    <string name="hms_downloading_new" priority="LT">"Загрузка HMS"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Усталяваць"</string>
+    <string name="hms_install_message" priority="translator">"Для карыстання гэтай функцыяй неабходна ўсталяваць Мабільныя сэрвісы Huawei. Усталяваць?"</string>
+    <string name="hms_push_channel" priority="translator">"Стандартнае"</string>
+    <string name="hms_retry" priority="translator">"Паўтарыць"</string>
+    <string name="hms_update" priority="translator">"Абнавіць"</string>
+    <string name="hms_update_message" priority="translator">"Абнавіцеся да апошняй версіі Паслуг Мабільнай Сувязі Huawei, каб выкарыстоўваць гэту функцыю. Абнавіць зараз?"</string>
+    <string name="hms_update_message_new" priority="LT">"Для гэтай паслугі неабходна апошняя версія наступнай праграмы:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Паслугі Мабільнай Сувязі Huawei"</string>
+    <string name="no_available_network_prompt_toast">"Інтэрнэт злучэнне адсутнічае. Калі ласка, праверце сеткавыя налады."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"больш за 999"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"Адмяніць устаноўку?"</string>
+    <string name="third_app_dl_install_failed">"Памылка ўсталявання."</string>
+    <string name="third_app_dl_sure_cancel_download">"Так"</string>
+    <string name="upsdk_app_dl_installing">"Загрузка HiApp"</string>
+    <string name="upsdk_app_download_info_new">"Усталяваць"</string>
+    <string name="upsdk_app_size">"Памер"</string>
+    <string name="upsdk_app_version">"Версія"</string>
+    <string name="upsdk_cancel">"Адмена"</string>
+    <string name="upsdk_checking_update_prompt">"Пошук абнаўленняў…"</string>
+    <string name="upsdk_choice_update">"Абнаўленне даступна. Калі ласка, спампуйце і ўсталюйце апошнюю версію."</string>
+    <string name="upsdk_detail">"Дэталі"</string>
+    <string name="upsdk_install">"Усталюйце HiApp, каб абнавіць. Усталяваць зараз?"</string>
+    <string name="upsdk_ota_app_name">"Праграма"</string>
+    <string name="upsdk_ota_cancel">"Пазней"</string>
+    <string name="upsdk_ota_force_cancel_new">"Выхад"</string>
+    <string name="upsdk_ota_notify_updatebtn">"Абнавіць"</string>
+    <string name="upsdk_ota_title">"Новая версія"</string>
+    <string name="upsdk_update_check_no_new_version">"Вы ўжо карыстаецеся апошнюю версію."</string>
+    <string name="upsdk_updating">"Абнаўленне"</string>
+</resources>

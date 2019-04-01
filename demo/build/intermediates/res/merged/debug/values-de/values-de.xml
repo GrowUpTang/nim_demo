@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivieren"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installieren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <string name="connect_server_fail_prompt_toast">"Verbinden mit dem Server nicht möglich. Versuchen Sie es später erneut."</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Sonstiges"</string>
+    <string name="getting_message_fail_prompt_toast">"Abrufen von Informationen nicht möglich. Versuchen Sie es später erneut."</string>
+    <string name="hms_abort" priority="translator">"Anhalten"</string>
+    <string name="hms_abort_message" priority="translator">"Download anhalten?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s kann Huawei-Mobildienste nicht nutzen. Öffnen Sie den Telefonmanager oder gehen Sie zu Einstellungen, um sämtliche Berechtigungen für %2$s zu aktivieren (auch Auto-Start und sekundärer Start) und es anschließend erneut zu versuchen."</string>
+    <string name="hms_cancel" priority="translator">"Abbrechen"</string>
+    <string name="hms_check_failure" priority="translator">"Fehler bei der Suche nach Aktualisierungen."</string>
+    <string name="hms_check_no_update" priority="translator">"Sie verwenden bereits die neueste Version."</string>
+    <string name="hms_checking" priority="translator">"Aktualisierungen werden gesucht …"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Fehler beim Herunterladen des Pakets für Huawei-Mobildienste."</string>
+    <string name="hms_download_no_space" priority="translator">"Nicht genügend freier Speicherplatz. Download kann nicht abgeschlossen werden."</string>
+    <string name="hms_download_retry" priority="translator">"Download fehlgeschlagen. Erneut versuchen?"</string>
+    <string name="hms_downloading" priority="translator">"Huawei-Mobildienste werden heruntergeladen | Fortschritt: %d %%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Herunterladen"</string>
+    <string name="hms_downloading_new" priority="LT">"HMS herunterladen ..."</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Installieren"</string>
+    <string name="hms_install_message" priority="translator">"Huawei-Mobildienste müssen installiert sein, um diese Funktion zu nutzen. Installieren?"</string>
+    <string name="hms_push_channel" priority="translator">"Standard"</string>
+    <string name="hms_retry" priority="translator">"Wiederholen"</string>
+    <string name="hms_update" priority="translator">"Aktualisieren"</string>
+    <string name="hms_update_message" priority="translator">"Aktualisieren Sie auf die neueste Version der Huawei-Mobildienste, um diese Funktion verwenden zu können. Jetzt aktualisieren?"</string>
+    <string name="hms_update_message_new" priority="LT">"Dieser Dienst benötigt die neueste Version der folgenden App:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Huawei-Mobildienste"</string>
+    <string name="leak_canary_analysis_failed">Leak Analyse fehlgeschlagen</string>
+    <string name="leak_canary_class_has_leaked">%1$s hat geleaked</string>
+    <string name="leak_canary_class_has_leaked_retaining">%1$s hat %2$s geleaked</string>
+    <string name="leak_canary_could_not_save_text">LeakCanary konnte das Ergebnis der Analyse nicht speichern.</string>
+    <string name="leak_canary_could_not_save_title">Konnte Ergebnis nicht speichern.</string>
+    <string name="leak_canary_delete">Löschen</string>
+    <string name="leak_canary_delete_all">Alle löschen</string>
+    <string name="leak_canary_delete_all_leaks_title">Bist du dir sicher, dass du alle Leaks löschen möchtest?</string>
+    <string name="leak_canary_display_activity_label">Leaks</string>
+    <string name="leak_canary_excluded_row">[Ausgeschlossen] %s</string>
+    <string name="leak_canary_failure_report">"Bitte sende diesen Fehler an http://github.com/square/leakcanary\n"</string>
+    <string name="leak_canary_help_detail"><![CDATA[A memory leak is a programming error that causes
+  your application to keep a reference to an object that is no longer needed. As a result, the
+  memory allocated for that object cannot be reclaimed, eventually leading to an OutOfMemoryError
+  crash.<br>
+  <br>For instance, an Android activity instance is no longer needed after its <i>onDestroy()</i>
+  method is called, and storing a reference to that activity in a static field would prevent it from
+  being garbage collected.<br>
+  <br>
+  LeakCanary identifies an object that is longer needed and finds the chain of
+  <font color=\'#9976a8\'>references</font> that prevents it from being garbage collected.<br>
+  <br>
+  To fix a memory leak, you need to look at that chain and find which reference is causing the
+  leak, i.e. which reference should have been cleared at the time of the leak. LeakCanary highlights
+  with a red underline wave the <b><u><font color=\'#9976a8\'>references</font></u></b> that are the
+  possible causes of the leak.<br>
+  <br>
+  Tap on each reference row for more details, tap again to close.
+]]></string>
+    <string name="leak_canary_help_title">Tap here to learn more</string>
+    <string name="leak_canary_leak_excluded">[Ausgeschlossen] %1$s hat geleaked</string>
+    <string name="leak_canary_leak_excluded_retaining">[Ausgeschlossen] %1$s hat %2$s geleaked</string>
+    <string name="leak_canary_leak_list_title">Leaks in %s</string>
+    <string name="leak_canary_no_leak_text">Der GC war untätig.</string>
+    <string name="leak_canary_no_leak_title">Kein Leak gefunden</string>
+    <string name="leak_canary_notification_analysing">Analyzing Heap Dump</string>
+    <string name="leak_canary_notification_channel">LeakCanary</string>
+    <string name="leak_canary_notification_dumping">Dumping Heap</string>
+    <string name="leak_canary_notification_foreground_text">LeakCanary is working.</string>
+    <string name="leak_canary_notification_message">Für mehr Details hier klicken</string>
+    <string name="leak_canary_notification_reporting">Reporting LeakCanary result</string>
+    <string name="leak_canary_permission_not_granted">Bitte gewähre die Storage Berechtigung, andernfalls werden Memory Leaks nicht erkannt.</string>
+    <string name="leak_canary_permission_notification_text">Hier klicken, um Storage Berechtigung für %s zu aktivieren.</string>
+    <string name="leak_canary_permission_notification_title">Leak erkannt, benötige Berechtigung</string>
+    <string name="leak_canary_share_heap_dump">Heap Dump teilen</string>
+    <string name="leak_canary_share_leak">Info teilen</string>
+    <string name="leak_canary_share_with">Teilen mit…</string>
+    <string name="leak_canary_storage_permission_activity_label">Storage Berechtigung</string>
+    <string name="leak_canary_toast_heap_dump">Sichere den Speicher, die App wird einfrieren. Brrr.</string>
+    <string name="no_available_network_prompt_toast">"Keine Internetverbindung. Prüfen Sie Ihre Netzwerkeinstellungen."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"Installation abbrechen?"</string>
+    <string name="third_app_dl_install_failed">"Installieren fehlgeschlagen"</string>
+    <string name="third_app_dl_sure_cancel_download">"Ja"</string>
+    <string name="upsdk_app_dl_installing">"HiApp herunterladen"</string>
+    <string name="upsdk_app_download_info_new">"Installieren"</string>
+    <string name="upsdk_app_size">"Größe"</string>
+    <string name="upsdk_app_version">"Version"</string>
+    <string name="upsdk_cancel">"Abbrechen"</string>
+    <string name="upsdk_checking_update_prompt">"Nach Updates suchen ..."</string>
+    <string name="upsdk_choice_update">"Aktualisierung verfügbar. Laden und installieren Sie die neuste Version."</string>
+    <string name="upsdk_detail">"Details"</string>
+    <string name="upsdk_install">"Zum Aktualisieren HiApp installieren. Jetzt installieren?"</string>
+    <string name="upsdk_ota_app_name">"App"</string>
+    <string name="upsdk_ota_cancel">"Später"</string>
+    <string name="upsdk_ota_force_cancel_new">"Beenden"</string>
+    <string name="upsdk_ota_notify_updatebtn">"Aktualisieren"</string>
+    <string name="upsdk_ota_title">"Neue Version"</string>
+    <string name="upsdk_update_check_no_new_version">"Sie verwenden bereits die neuste Version."</string>
+    <string name="upsdk_updating">"Aktualisieren ..."</string>
+</resources>

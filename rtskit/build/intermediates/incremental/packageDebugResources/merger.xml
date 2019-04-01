@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\FlutterProjects\nim_demo\rtskit\src\main\res"/><source path="E:\FlutterProjects\nim_demo\rtskit\src\main\res-avchat"/><source path="E:\FlutterProjects\nim_demo\rtskit\build\generated\res\rs\debug"/><source path="E:\FlutterProjects\nim_demo\rtskit\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\FlutterProjects\nim_demo\rtskit\src\main\res"><file name="color_green_text_view_selector" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\color\color_green_text_view_selector.xml" qualifiers="" type="color"/><file name="g_red_long_btn_selector" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable\g_red_long_btn_selector.xml" qualifiers="" type="drawable"/><file name="nim_actionbar_nest_dark_logo" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable\nim_actionbar_nest_dark_logo.xml" qualifiers="" type="drawable"/><file name="nim_list_item_selector" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable\nim_list_item_selector.xml" qualifiers="" type="drawable"/><file name="nim_message_button_bottom_send_selector" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable\nim_message_button_bottom_send_selector.xml" qualifiers="" type="drawable"/><file name="g_red_long_btn_nomal" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\g_red_long_btn_nomal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="g_red_long_btn_pressed" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\g_red_long_btn_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_audio_close" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\icon_audio_close.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_audio_open" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\icon_audio_open.png" qualifiers="hdpi-v4" type="drawable"/><file name="nim_actionbar_dark_back_icon" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\nim_actionbar_dark_back_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="nim_actionbar_dark_logo_icon" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\nim_actionbar_dark_logo_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="nim_avatar_default" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\nim_avatar_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="nim_avatar_group" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\nim_avatar_group.png" qualifiers="hdpi-v4" type="drawable"/><file name="nim_message_input_send_normal" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\nim_message_input_send_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="nim_message_input_send_pressed" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-hdpi\nim_message_input_send_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="nim_actionbar_dark_back_icon" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-xhdpi\nim_actionbar_dark_back_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="nim_actionbar_dark_logo_icon" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\drawable-xhdpi\nim_actionbar_dark_logo_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="nim_action_bar_right_clickable_tv" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\layout\nim_action_bar_right_clickable_tv.xml" qualifiers="" type="layout"/><file name="nim_easy_alert_dialog_bottom_button" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\layout\nim_easy_alert_dialog_bottom_button.xml" qualifiers="" type="layout"/><file name="nim_easy_alert_dialog_default_layout" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\layout\nim_easy_alert_dialog_default_layout.xml" qualifiers="" type="layout"/><file name="nim_easy_alert_dialog_title" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\layout\nim_easy_alert_dialog_title.xml" qualifiers="" type="layout"/><file name="rts_activity" path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\layout\rts_activity.xml" qualifiers="" type="layout"/><file path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\values\colors.xml" qualifiers=""><color name="transparent">#00000000</color><color name="black">#000000</color><color name="color_f2f7fc">#F2F7FC</color><color name="color_c2364b">#C2364B</color><color name="color_f5455e">#F5455E</color><color name="color_grey_d0d0d0">#d0d0d0</color><color name="video_call_peer_close_cameral_text_shadow">#484848</color><color name="video_call_peer_close_cameral_text_color">#f1f1f1</color><color name="t_av_chat_setting_bar">#3C4149</color><color name="color_red_f04c62">#f04c62</color><color name="color_gray_alpha40">#66000000</color><color name="color_b3b3b3">#b3b3b3</color><color name="split_line_grey_color_d9d9d9">#d9d9d9</color><color name="color_black_333333">#333333</color><color name="color_grey_999999">#999999</color><color name="color_gray_d9d9d9">#d9d9d9</color><color name="color_blue_0888ff">#0888ff</color><color name="white">#ffffff</color><color name="color_activity_blue_bg">#f7389fff</color><color name="color_red_ccfa3c55">#ccfa3c55</color><color name="grey">#333333</color></file><file path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\values\dimens.xml" qualifiers=""><dimen name="t_avchat_setting_margin">10dip</dimen><dimen name="action_bar_height">48dip</dimen><dimen name="very_samll_text_size">9sp</dimen><dimen name="normal_text_size">16sp</dimen><dimen name="big_text_size">17sp</dimen><dimen name="light_line_size">1px</dimen><dimen name="thick_line_size">2px</dimen><dimen name="dialog_text_margin_horizontal">15dip</dimen><dimen name="dialog_padding_vertical">20dip</dimen><dimen name="custom_dialog_padding_vertical">15dip</dimen><dimen name="dark_line_size">3px</dimen><dimen name="avatar_notification_size">48dip</dimen><dimen name="avatar_max_size">60dip</dimen><dimen name="avatar_size_default">50dip</dimen><dimen name="avatar_size_in_session">40dip</dimen><dimen name="avatar_size_in_contact">30dip</dimen><dimen name="avatar_size_in_profile">60dip</dimen><dimen name="avatar_size_robot">40dip</dimen><dimen name="bubble_padding_top">10dip</dimen><dimen name="bubble_padding_bottom">12dip</dimen><dimen name="bubble_padding_left">16dip</dimen><dimen name="bubble_padding_right">14dip</dimen><dimen name="bubble_margin_top">2dip</dimen></file><file path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">rtskit</string><string name="empty"/><string name="cancel">取消</string><string name="ok">确定</string><string name="clear_empty">清空</string><string name="iknow">知道了</string><string name="open">开启</string><string name="close">关闭</string><string name="start_session">正在邀请对方，请稍后</string><string name="callee_reject">对方拒绝了本次请求</string><string name="callee_ack_timeout">对方未接受请求</string><string name="receive_session">对方发起白板演示</string><string name="start_session_record">我发起了白板演示</string><string name="session_end_record">白板演示已结束</string><string name="end_session_tip_head">退出白板演示</string><string name="end_session_tip_content">退出后，你将不再接收白板演示的消息内容</string><string name="target_has_end_session">对方结束白板演示</string><string name="accept_session">接受</string><string name="reject_session">拒绝</string><string name="doodle_back">上一步</string><string name="doodle_clear">清屏</string></file><file path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\values\styles-activity.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/color_gray_d9d9d9</item>
+        <item name="colorAccent">@color/color_blue_0888ff</item>
+        <item name="actionBarSize">@dimen/action_bar_height</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="toolbarNavigationButtonStyle">@style/myToolbarNavigationButtonStyle</item>
+    </style><style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style><style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:itemTextAppearance">?android:attr/actionMenuTextAppearance</item>
+    </style><style name="FullScreenTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
+        
+    </style><style name="myToolbarNavigationButtonStyle" parent="@style/Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style><style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">16sp</item>
+    </style><style name="Toolbar.SubTitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
+        <item name="android:textSize">10sp</item>
+    </style><style name="DarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/color_black_333333</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/color_blue_0888ff</item>
+        <item name="actionBarSize">@dimen/action_bar_height</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="toolbarNavigationButtonStyle">@style/myToolbarNavigationButtonStyle</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style></file><file path="E:\FlutterProjects\nim_demo\rtskit\src\main\res\values\styles.xml" qualifiers=""><style name="dialog_button_text_style">
+        <item name="android:textSize">@dimen/big_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/nim_list_item_selector</item>
+        <item name="android:paddingTop">@dimen/custom_dialog_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/custom_dialog_padding_vertical</item>
+    </style><style name="custom_dialog_message_text_style">
+        <item name="android:textSize">@dimen/normal_text_size</item>
+        <item name="android:textColor">@color/color_black_333333</item>
+        <item name="android:paddingLeft">@dimen/dialog_text_margin_horizontal</item>
+        <item name="android:paddingRight">@dimen/dialog_text_margin_horizontal</item>
+        <item name="android:paddingTop">@dimen/custom_dialog_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/custom_dialog_padding_vertical</item>
+        <item name="android:background">@drawable/nim_list_item_selector</item>
+    </style><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="civ_border_width"/>
+        <attr format="color" name="civ_border_color"/>
+        <attr format="boolean" name="civ_border_overlay"/>
+        <attr format="color" name="civ_fill_color"/>
+    </declare-styleable><style name="easy_dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+    </style><style name="dialog_default_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="dialog_title_text_style">
+        <item name="android:textSize">@dimen/big_text_size</item>
+        <item name="android:textColor">@color/color_activity_blue_bg</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/dialog_text_margin_horizontal</item>
+        <item name="android:paddingRight">@dimen/dialog_text_margin_horizontal</item>
+        <item name="android:paddingTop">@dimen/dialog_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/dialog_padding_vertical</item>
+    </style><style name="dialog_message_text_style">
+        <item name="android:textSize">@dimen/normal_text_size</item>
+        <item name="android:textColor">@color/color_black_333333</item>
+        <item name="android:paddingLeft">@dimen/dialog_text_margin_horizontal</item>
+        <item name="android:paddingRight">@dimen/dialog_text_margin_horizontal</item>
+        <item name="android:paddingTop">@dimen/dialog_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/dialog_padding_vertical</item>
+    </style></file></source><source path="E:\FlutterProjects\nim_demo\rtskit\src\main\res-avchat"/><source path="E:\FlutterProjects\nim_demo\rtskit\build\generated\res\rs\debug"/><source path="E:\FlutterProjects\nim_demo\rtskit\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\FlutterProjects\nim_demo\rtskit\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\FlutterProjects\nim_demo\rtskit\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable></configuration></mergedItems></merger>

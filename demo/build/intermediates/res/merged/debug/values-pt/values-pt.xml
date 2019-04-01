@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="connect_server_fail_prompt_toast">"Não é possível conectar ao servidor. Tente novamente mais tarde."</string>
+    <string name="getting_message_fail_prompt_toast">"Não é possível recuperar informações. Tente novamente mais tarde."</string>
+    <string name="hms_abort" priority="translator">"Parar"</string>
+    <string name="hms_abort_message" priority="translator">"Parar o download?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s não pode usar o Huawei Mobile Services. Inicie o Gerenciador do telefone ou vá para Configurações, ative todas as permissões para %2$s (incluindo início automático e início secundário) e tente novamente."</string>
+    <string name="hms_cancel" priority="translator">"Cancelar"</string>
+    <string name="hms_check_failure" priority="translator">"Falha ao verificar atualizações."</string>
+    <string name="hms_check_no_update" priority="translator">"Você já está usando a versão mais recente."</string>
+    <string name="hms_checking" priority="translator">"Verificando atualizações..."</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Falha no download do pacote de serviços móveis da Huawei."</string>
+    <string name="hms_download_no_space" priority="translator">"Não há espaço livre suficiente. O download não pode ser concluído."</string>
+    <string name="hms_download_retry" priority="translator">"Falha no download. Tentar novamente?"</string>
+    <string name="hms_downloading" priority="translator">"Fazendo o download dos serviços móveis da Huawei | progresso: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Baixando"</string>
+    <string name="hms_downloading_new" priority="LT">"Baixando HMS"</string>
+    <string name="hms_gamebox_name" priority="LT">"GameCenter"</string>
+    <string name="hms_install" priority="translator">"Instalar"</string>
+    <string name="hms_install_message" priority="translator">"Os serviços móveis da Huawei deve ser instalados para usar este recurso. Instalar?"</string>
+    <string name="hms_push_channel" priority="translator">"Padrão"</string>
+    <string name="hms_retry" priority="translator">"Tentar novamente"</string>
+    <string name="hms_update" priority="translator">"Atualizar"</string>
+    <string name="hms_update_message" priority="translator">"Para usar este recurso, faça a atualização para a versão mais recente dos serviços móveis da Huawei. Atualizar agora?"</string>
+    <string name="hms_update_message_new" priority="LT">"Este serviço requer a última versão do seguinte aplicativo:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Serviços móveis da Huawei"</string>
+    <string name="no_available_network_prompt_toast">"S/ con Int. Erro de rede. Verif.config.rede."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"Cancelar a instalação?"</string>
+    <string name="third_app_dl_install_failed">"Falha na instalação."</string>
+    <string name="third_app_dl_sure_cancel_download">"Sim"</string>
+    <string name="upsdk_app_dl_installing">"Download do HiApp em execução"</string>
+    <string name="upsdk_app_download_info_new">"Instalar"</string>
+    <string name="upsdk_app_size">"Tamanho"</string>
+    <string name="upsdk_app_version">"Versão"</string>
+    <string name="upsdk_cancel">"Cancelar"</string>
+    <string name="upsdk_checking_update_prompt">"Verificando atualizações..."</string>
+    <string name="upsdk_choice_update">"Atualização disponível. Faça download e instale a versão mais recente."</string>
+    <string name="upsdk_detail">"Detalhes"</string>
+    <string name="upsdk_install">"Instale o HiApp para atualizar. Instalar agora?"</string>
+    <string name="upsdk_ota_app_name">"Aplicativo"</string>
+    <string name="upsdk_ota_cancel">"Depois"</string>
+    <string name="upsdk_ota_force_cancel_new">"Sair"</string>
+    <string name="upsdk_ota_notify_updatebtn">"Atualizar"</string>
+    <string name="upsdk_ota_title">"Nova versão"</string>
+    <string name="upsdk_update_check_no_new_version">"Está usando vers recente."</string>
+    <string name="upsdk_updating">"Atualiz."</string>
+</resources>

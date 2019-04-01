@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Pārvietoties augšup"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Vairāk opciju"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IZSLĒGTS"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"IESLĒGTS"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Meklēšana ar balsi"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Kopīgot ar %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Iespējot"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir jāiespējo Google Play pakalpojumi."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play pakalpojumu iespējošana"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalēt"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ierīcē ir jāinstalē Google Play pakalpojumi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play pakalpojumu iegūšana"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play pakalpojumu kļūda"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Lietotnē <ns1:g id="APP_NAME">%1$s</ns1:g> ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atjaunināt"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, jums ir jāatjaunina Google Play pakalpojumi."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play pakalpojumu atjaunināšana"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Lai lietotne <ns1:g id="APP_NAME">%1$s</ns1:g> darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Atvērt tālrunī"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Pierakstīties"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Pierakstīties ar Google kontu"</string>
+    <string name="connect_server_fail_prompt_toast">"Nevar izveidot savienojumu ar serveri. Vēlāk mēģiniet vēlreiz."</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Dažādi"</string>
+    <string name="getting_message_fail_prompt_toast">"Nevar izgūt inform. Vēlāk mēģ. vēlr."</string>
+    <string name="hms_abort" priority="translator">"Apturēt"</string>
+    <string name="hms_abort_message" priority="translator">"Vai apturēt lejupielādi?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s nevar lietot Huawei mobilos pakalpojumus. Aktivizējiet tālruņa pārvaldnieku vai atveriet sadaļu Iestatījumi, iespējojiet visas atļaujas saistībā ar %2$s (tostarp automātisko palaišanu un sekundāro palaišanu) un mēģiniet vēlreiz."</string>
+    <string name="hms_cancel" priority="translator">"Atcelt"</string>
+    <string name="hms_check_failure" priority="translator">"Neizdevās pārbaudīt, vai nav atjauninājumu."</string>
+    <string name="hms_check_no_update" priority="translator">"Jūs jau lietojat jaunāko versiju."</string>
+    <string name="hms_checking" priority="translator">"Meklē atjauninājumus…"</string>
+    <string name="hms_confirm" priority="translator">"Labi"</string>
+    <string name="hms_download_failure" priority="translator">"Neizdevās lejupielādēt Huawei Mobile Services pakotni."</string>
+    <string name="hms_download_no_space" priority="translator">"Nepietiek brīvas vietas. Lejupielādi nevar pabeigt."</string>
+    <string name="hms_download_retry" priority="translator">"Lejupielāde neizdevās. Vai mēģināt vēlreiz?"</string>
+    <string name="hms_downloading" priority="translator">"Notiek Huawei Mobile Services lejupielādēšana | norise: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Notiek lejupielāde"</string>
+    <string name="hms_downloading_new" priority="LT">"HMS lejupielāde"</string>
+    <string name="hms_gamebox_name" priority="LT">"GameCenter"</string>
+    <string name="hms_install" priority="translator">"Instalēt"</string>
+    <string name="hms_install_message" priority="translator">"Lai lietotu šo funkciju, ir jābūt instalētam pakalpojumam Huawei Mobile Services. Vai instalēt?"</string>
+    <string name="hms_push_channel" priority="translator">"Noklusējums"</string>
+    <string name="hms_retry" priority="translator">"Mēģināt vēlreiz"</string>
+    <string name="hms_update" priority="translator">"Atjaunināt"</string>
+    <string name="hms_update_message" priority="translator">"Lai lietotu šo funkciju, atjauniniet uz Huawei Mobile Services jaunāko versiju. Vai atjaunināt tūlīt?"</string>
+    <string name="hms_update_message_new" priority="translator">"Šim pak. nepieciešama šīs lietotnes jaunākā versija:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+    <string name="no_available_network_prompt_toast">"Nav intern. sav. Pārb. tīkla iestatījumus."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Meklēt"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"Vai atcelt instal.?"</string>
+    <string name="third_app_dl_install_failed">"Instalēšana neizdevās."</string>
+    <string name="third_app_dl_sure_cancel_download">"Jā"</string>
+    <string name="upsdk_app_dl_installing">"HiApp lejupielāde"</string>
+    <string name="upsdk_app_download_info_new">"Instalēt"</string>
+    <string name="upsdk_app_size">"Liel."</string>
+    <string name="upsdk_app_version">"Vers."</string>
+    <string name="upsdk_cancel">"Atcelt"</string>
+    <string name="upsdk_checking_update_prompt">"Meklēt atjauninājumus…"</string>
+    <string name="upsdk_choice_update">"Ir pieejams atjaunin. Lejupiel. un inst. jaunāko versiju."</string>
+    <string name="upsdk_detail">"Detaliz."</string>
+    <string name="upsdk_install">"Lai atjauninātu, inst. HiApp. Vai inst. tūlīt?"</string>
+    <string name="upsdk_ota_app_name">"Lietotne"</string>
+    <string name="upsdk_ota_cancel">"Vēlāk"</string>
+    <string name="upsdk_ota_force_cancel_new">"Iziet"</string>
+    <string name="upsdk_ota_notify_updatebtn">"Atjaunināt"</string>
+    <string name="upsdk_ota_title">"Jauna versija"</string>
+    <string name="upsdk_update_check_no_new_version">"Jūs jau lietojat jaunāko versiju."</string>
+    <string name="upsdk_updating">"Atjaunināšana"</string>
+</resources>

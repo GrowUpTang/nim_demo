@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ກັບໄປໜ້າຫຼັກ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ຂຶ້ນເທິງ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ໂຕເລືອກອື່ນ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ແລ້ວໆ"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ເບິ່ງທັງຫມົດ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ເລືອກແອັບຯ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ປິດ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ເປີດ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ຊອກຫາ"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ລຶບຂໍ້ຄວາມຊອກຫາ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ຊອກຫາ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ຊອກຫາ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ສົ່ງການຊອກຫາ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ຊອກຫາດ້ວຍສຽງ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ແບ່ງປັນກັບ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"ແບ່ງ​ປັນ​ກັບ​ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ຫຍໍ້"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ເປີດນຳໃຊ້"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ງານ​ການ​ບໍ​ລິ​ການ Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"ເປີດໃຊ້ການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ຕິດຕັ້ງ"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດເປີດໃຊ້ໄດ້ຫາກບໍ່ມີການບໍລິການ Google Play ເຊິ່ງແທັບເລັດຂອງທ່ານບໍ່ມີ."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"ຕິດຕັ້ງບໍລິການ Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ໄດ້ຫາກບໍ່ມີບໍລິການ Google Play ເຊິ່ງອຸປະກອນຂອງທ່ານບໍ່ຮອງຮັບ."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ອັບເດດ"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"ອັບເດດການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ກຳ​ລັງ​ອັບ​ເດດ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"ຈຳ​ເປັນ​ຕ້ອງ​ມີ​ກາ​ນ​ບໍ​ລິ​ການ Google Play ເວີ​ຊັນ​ໃໝ່. ມັນ​ຈະ​ອັບ​ເດດ​ຕົວ​ເອງ​ໄວໆ​ນີ້."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ລົງຊື່ເຂົ້າໃຊ້"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google"</string>
+    <string name="connect_server_fail_prompt_toast">"ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຊີບ​ເວີໄດ້. ກະລຸນາລອງໃໝ່ອີກພາຍຫຼັງ."</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"ອື່ນໆ"</string>
+    <string name="getting_message_fail_prompt_toast">"ບໍ່ສາມາດດຶງຂໍ້ມູນໄດ້. ກະລຸນາລອງໃໝ່ອີກພາຍຫຼັງ."</string>
+    <string name="hms_abort" priority="translator">"ຢຸດ"</string>
+    <string name="hms_abort_message" priority="translator">"ຢຸດ​ການດາວ​ໂຫຼດ​ບໍ?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s ບໍ່​ສາ​ມາດ​ໃຊ້​ບໍ​ລິ​ການ​ມື​ຖື Huawei ໄດ້. ກະ​ລຸ​ນາ​ເປີດ​ນຳ​ໃຊ້​ຕົວ​ຈັດ​ການ​ໂທ​ລະ​ສັບ ຫຼື ໄປ​ທີ່​ການ​ຕັ້ງ​ຄ່າ, ເປີດ​ໃຊ້​ງານ​ການ​ອະ​ນຸ​ຍາດ​ທັງ​ໝົດ​ສຳ​ລັບ %2$s (ລວມ​ທັງ​ການ​ເປີດ​ນຳ​ໃຊ້​ອັດ​ຕະ​ໂນ​ມັດ ແລະ ການ​ເປີດ​ນຳ​ໃຊ້​ສຳ​ຮອງ), ແລະ ລອງ​ໃໝ່​ອີກ."</string>
+    <string name="hms_cancel" priority="translator">"ຍົກ​ເລີກ​"</string>
+    <string name="hms_check_failure" priority="translator">"ຊອກ​ຫາ​ການ​ອັບ​ເດດ​ບໍ່​ສຳ​ເລັດ."</string>
+    <string name="hms_check_no_update" priority="translator">"ທ່ານ​ກຳ​ລັງ​ໃຊ້​ເວີ​ຊັນ​ຫຼ້າ​ສຸດ​ຢູ່​ແລ້ວ."</string>
+    <string name="hms_checking" priority="translator">"ກຳ​ລັງ​ກວດ​ຫາ​ການ​ອັບ​ເດດ..."</string>
+    <string name="hms_confirm" priority="translator">"ຕົກ​ລົງ"</string>
+    <string name="hms_download_failure" priority="translator">"ດາວ​ໂຫຼດ​ແພັກ​ເກດ​ການ​ບໍ​ລິ​ການ Huawei Mobile ບໍ່​ສຳ​ເລັດ."</string>
+    <string name="hms_download_no_space" priority="translator">"ບໍ່​ມີ​ພື້ນ​ທີ່​ຫວ່າງພຽງ​ພໍ. ບໍ່​ສາ​ມາດ​ດາວ​ໂຫຼດ​ສຳ​ເລັດ​ໄດ້."</string>
+    <string name="hms_download_retry" priority="translator">"ດາວ​ໂຫຼດ​ບໍ່​ສຳ​ເລັດ. ລອງໃໝ່ອີກບໍ?"</string>
+    <string name="hms_downloading" priority="translator">"ກຳ​ລັງ​ດາວ​ໂຫຼດການ​ບໍ​ລິ​ການ Huawei Mobile | ຄື​ບ​ໜ້າ: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"​ກຳລັງ​ດາວ​ໂຫຼດ"</string>
+    <string name="hms_downloading_new" priority="LT">"ກຳ​ລັງດາວໂຫຼດ HMS"</string>
+    <string name="hms_gamebox_name" priority="translator">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"​ຕິດ​ຕັ້ງ"</string>
+    <string name="hms_install_message" priority="translator">"ຈະ​ຕ້ອງ​ຕິດ​ຕັ້ງ​ການ​ບໍ​ລິ​ການ Huawei Mobile ເພື່ອ​ໃຊ້​ຟີ​ເຈີ​ນີ້. ​ຕິດ​ຕັ້ງບໍ?"</string>
+    <string name="hms_push_channel" priority="translator">"ຄ່າເລີ່ມຕົ້ນ"</string>
+    <string name="hms_retry" priority="translator">"ລອງໃໝ່ອີກ"</string>
+    <string name="hms_update" priority="translator">"ອັບເດດ"</string>
+    <string name="hms_update_message" priority="translator">"ອັບ​ເດດ​ເປັນການ​ບໍ​ລິ​ການ Huawei Mobile ​ເວີ​ຊັນ​ຫຼ້າ​ສຸດ ເພື່ອ​ໃຊ້​ຟີ​ເຈີ​ນີ້. ອັບ​ເດດ​ດຽວ​ນີ້​ບໍ?"</string>
+    <string name="hms_update_message_new" priority="LT">"ການບໍລິການນີ້ຕ້ອງການລຸ້ນຫຼ້າສຸດຂອງແອັບຕໍ່ໄປນີ້:\n\n\%1$s"</string>
+    <string name="hms_update_title" priority="translator">"ການ​ບໍ​ລິ​ການ Huawei Mobile"</string>
+    <string name="no_available_network_prompt_toast">"ບໍ່​ມີ​ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ. ກະ​ລຸ​ນາ​ກວດ​ເບິ່ງ​ການຕັ້ງ​ຄ່າ​ເຄືອ​ຂ່າຍຂອງ​ທ່ານ."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ຊອກຫາ"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"ຍົກ​ເລີກ​ການ​ຕິດ​ຕັ້ງ​ບໍ?"</string>
+    <string name="third_app_dl_install_failed">"ການຕິດຕັ້ງຫຼົ້ມ​ເຫຼວ."</string>
+    <string name="third_app_dl_sure_cancel_download">"​ແມ່ນແລ້ວ"</string>
+    <string name="upsdk_app_dl_installing">"ກຳ​ລັງດາວ​ໂຫຼດ HiApp"</string>
+    <string name="upsdk_app_download_info_new">"​ຕິດ​ຕັ້ງ"</string>
+    <string name="upsdk_app_size">"ຂະໜາດ"</string>
+    <string name="upsdk_app_version">"​ເວີ​ຊັນ"</string>
+    <string name="upsdk_cancel">"​ຍົກ​ເລີກ"</string>
+    <string name="upsdk_checking_update_prompt">"ກຳ​ລັງ​ກວດ​ຫາ​ການ​ອັບ​ເດດ..."</string>
+    <string name="upsdk_choice_update">"ມີການອັບເດດຢູ່. ກະ​ລຸ​ນາ​ດາວ​ໂຫຼດ ແລະ ຕິດ​ຕັ້ງ​ເວີ​ຊັນ​ຫຼ້າ​ສຸດ."</string>
+    <string name="upsdk_detail">"ລາຍລະອຽດ"</string>
+    <string name="upsdk_install">"ຕິດ​ຕັ້ງ HiApp ເພື່​​ອ​ອັບ​ເດດ. ຕິດ​ຕັ້ງ​ດຽວ​ນີ້ບໍ?"</string>
+    <string name="upsdk_ota_app_name">"ແອັບ"</string>
+    <string name="upsdk_ota_cancel">"ພາຍຫຼັງ"</string>
+    <string name="upsdk_ota_force_cancel_new">"ອອກ"</string>
+    <string name="upsdk_ota_notify_updatebtn">"ອັບເດດ"</string>
+    <string name="upsdk_ota_title">"ເວີ​ຊັນ​ໃໝ່"</string>
+    <string name="upsdk_update_check_no_new_version">"ທ່ານ​ກຳ​ລັງ​ໃຊ້​ເວີ​ຊັນ​ຫຼ້າ​ສຸດ​ຢູ່​ແລ້ວ."</string>
+    <string name="upsdk_updating">"ກຳລັງອັບເດດ"</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"사용 설정"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play 서비스를 사용하도록 설정해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 작동합니다."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play 서비스 사용"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"설치"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"기기에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play 서비스 설치"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 서비스 오류"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"업데이트"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play 서비스를 업데이트해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play 서비스 업데이트"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"현재 업데이트 중인 Google Play 서비스가 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"스마트폰에서 열기"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"로그인"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <string name="connect_server_fail_prompt_toast">"서버에 연결할 수 없습니다. 나중에 다시 시도하세요."</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"기타"</string>
+    <string name="getting_message_fail_prompt_toast">"정보를 검색할 수 없습니다. 나중에 다시 시도하세요."</string>
+    <string name="hms_abort" priority="translator">"중지"</string>
+    <string name="hms_abort_message" priority="translator">"다운로드를 중지할까요?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s는(은) Huawei Mobile Service를 사용할 수 없습니다. 휴대폰 관리자를 열거나 설정에서 %2$s(자동 실행 및 2차 실행 포함)에 대한 권한을 켠 후 다시 시도하세요."</string>
+    <string name="hms_cancel" priority="translator">"취소"</string>
+    <string name="hms_check_failure" priority="translator">"업데이트 확인에 실패했습니다."</string>
+    <string name="hms_check_no_update" priority="translator">"이미 최신 버전을 사용하고 있습니다."</string>
+    <string name="hms_checking" priority="translator">"업데이트 확인 중…"</string>
+    <string name="hms_confirm" priority="translator">"확인"</string>
+    <string name="hms_download_failure" priority="translator">"Huawei 모바일 서비스 패키지 다운로드에 실패했습니다."</string>
+    <string name="hms_download_no_space" priority="translator">"빈 공간이 부족합니다. 다운로드를 완료할 수 없습니다."</string>
+    <string name="hms_download_retry" priority="translator">"다운로드에 실패했습니다. 다시 시도할까요?"</string>
+    <string name="hms_downloading" priority="translator">"Huawei 모바일 서비스 다운로드 중 | 진행률: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"다운로드 중"</string>
+    <string name="hms_downloading_new" priority="LT">"HMS 다운로드 중"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"설치"</string>
+    <string name="hms_install_message" priority="translator">"이 기능을 사용하려면 Huawei 모바일 서비스를 설치해야 합니다. 설치할까요?"</string>
+    <string name="hms_push_channel" priority="translator">"기본값"</string>
+    <string name="hms_retry" priority="translator">"재시도"</string>
+    <string name="hms_update" priority="translator">"업데이트"</string>
+    <string name="hms_update_message" priority="translator">"이 기능을 사용하려면 Huawei 모바일 서비스를 최신 버전으로 업데이트해야 합니다. 지금 업데이트할까요?"</string>
+    <string name="hms_update_message_new" priority="LT">"이 서비스는 다음 앱의 최신 버전이 필요합니다.\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Huawei 모바일 서비스"</string>
+    <string name="no_available_network_prompt_toast">"인터넷이 연결되지 않았습니다. 네트워크 설정을 확인해 주세요."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"설치를 취소할까요?"</string>
+    <string name="third_app_dl_install_failed">"설치에 실패했습니다."</string>
+    <string name="third_app_dl_sure_cancel_download">"예"</string>
+    <string name="upsdk_app_dl_installing">"HiApp 다운로드 중"</string>
+    <string name="upsdk_app_download_info_new">"설치"</string>
+    <string name="upsdk_app_size">"크기"</string>
+    <string name="upsdk_app_version">"버전"</string>
+    <string name="upsdk_cancel">"취소"</string>
+    <string name="upsdk_checking_update_prompt">"업데이트 확인 중…"</string>
+    <string name="upsdk_choice_update">"새로운 업데이트가 있습니다. 최신 버전을 다운로드하여 설치하세요."</string>
+    <string name="upsdk_detail">"상세사항"</string>
+    <string name="upsdk_install">"업데이트하려면 HiApp을 설치하세요. 지금 설치할까요?"</string>
+    <string name="upsdk_ota_app_name">"앱"</string>
+    <string name="upsdk_ota_cancel">"나중에"</string>
+    <string name="upsdk_ota_force_cancel_new">"나가기"</string>
+    <string name="upsdk_ota_notify_updatebtn">"업데이트"</string>
+    <string name="upsdk_ota_title">"새로운 버전"</string>
+    <string name="upsdk_update_check_no_new_version">"이미 최신 버전을 사용하고 계십니다."</string>
+    <string name="upsdk_updating">"업데이트 중"</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تمكين"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تمكين خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تمكين خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="connect_server_fail_prompt_toast">"غير قادر على الاتصال بالخادم، يُرجى إعادة المحاولة لاحقًا"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"متنوعة"</string>
+    <string name="getting_message_fail_prompt_toast">"غير قادر على الحصول على المعلومات، يُرجى إعادة المحاولة لاحقًا"</string>
+    <string name="hms_abort" priority="translator">"إيقاف"</string>
+    <string name="hms_abort_message" priority="translator">"هل تريد إيقاف التنزيل؟"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"\"%1$s\" غير قادر على استخدام خدمات هواوي للجوال. يُرجى تشغيل مدير الهاتف أو الذهاب إلى الإعدادات، وتمكين جميع أذونات %2$s (بما في ذلك التشغيل التلقائي، والتشغيل الثانوي)، وإعادة المحاولة."</string>
+    <string name="hms_cancel" priority="translator">"إلغاء"</string>
+    <string name="hms_check_failure" priority="translator">"تعذر التحقق من وجود تحديثات."</string>
+    <string name="hms_check_no_update" priority="translator">"أنت الآن تستخدم أحدث إصدار بالفعل."</string>
+    <string name="hms_checking" priority="translator">"جارِ التحقق من وجود تحديثات..."</string>
+    <string name="hms_confirm" priority="translator">"حسنًا"</string>
+    <string name="hms_download_failure" priority="translator">"تعذر تنزيل حزمة خدمات هواوي للجوال."</string>
+    <string name="hms_download_no_space" priority="translator">"لا يمكن استكمال التنزيل لعدم وجود مساحة تخزينية كافية."</string>
+    <string name="hms_download_retry" priority="translator">"تعذر التنزيل. هل تريد المحاولة مجددًا؟"</string>
+    <string name="hms_downloading" priority="translator">"جاري تنزيل خدمات هواوي للجوال | مستوى التقدم: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"قيد التنزيل..."</string>
+    <string name="hms_downloading_new" priority="LT">"جاري تنزيل خدمات هواوي للجوال"</string>
+    <string name="hms_gamebox_name" priority="LT">"مركز الألعاب"</string>
+    <string name="hms_install" priority="translator">"تثبيت"</string>
+    <string name="hms_install_message" priority="translator">"يجب تثبيت خدمات هواوي للجوال لاستخدام هذه الخاصية. هل تريد تثبيتها؟"</string>
+    <string name="hms_push_channel" priority="translator">"الافتراضي"</string>
+    <string name="hms_retry" priority="translator">"إعادة المحاولة"</string>
+    <string name="hms_update" priority="translator">"تحديث"</string>
+    <string name="hms_update_message" priority="translator">"قم بتحديث خدمات هواوي للجوال إلى أحدث إصدار متوفر لكي تتمكن من استخدام هذه الخاصية. هل تريد التحديث الآن؟"</string>
+    <string name="hms_update_message_new" priority="LT">"هذه الخدمة تحتاج إلى وجود أحدث إصدار للتطبيق التالي:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"خدمات هواوي للجوال"</string>
+    <string name="no_available_network_prompt_toast">"لا يوجد اتصال إنترنت لديك، يُرجى التحقق من إعدادات الشبكة"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"هل تريد إلغاء التثبيت؟"</string>
+    <string name="third_app_dl_install_failed">"تعذر التثبيت"</string>
+    <string name="third_app_dl_sure_cancel_download">"نعم"</string>
+    <string name="upsdk_app_dl_installing">"جاري تنزيل متجر التطبيقات HiApp"</string>
+    <string name="upsdk_app_download_info_new">"تثبيت"</string>
+    <string name="upsdk_app_size">"الحجم:"</string>
+    <string name="upsdk_app_version">"الإصدار:"</string>
+    <string name="upsdk_cancel">"إلغاء"</string>
+    <string name="upsdk_checking_update_prompt">"جارِ التحقق من وجود تحديثات..."</string>
+    <string name="upsdk_choice_update">"هناك تحديث متوفر، يُرجى تنزيل وتثبيت أحدث إصدار."</string>
+    <string name="upsdk_detail">"التفاصيل"</string>
+    <string name="upsdk_install">"يُرجى تثبيت متجر التطبيقات HiApp لتتمكن من تحديثه، هل تريد تثبيته الآن؟"</string>
+    <string name="upsdk_ota_app_name">"اسم التطبيق"</string>
+    <string name="upsdk_ota_cancel">"لاحقًا"</string>
+    <string name="upsdk_ota_force_cancel_new">"خروج"</string>
+    <string name="upsdk_ota_notify_updatebtn">"تحديث"</string>
+    <string name="upsdk_ota_title">"إصدار جديد"</string>
+    <string name="upsdk_update_check_no_new_version">"أنت الآن تستخدم أحدث إصدار بالفعل"</string>
+    <string name="upsdk_updating">"جارِ التحديث"</string>
+</resources>

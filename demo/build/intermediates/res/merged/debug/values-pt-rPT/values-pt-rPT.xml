@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Escolher uma aplicação"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Reduzir"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ativar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não funciona enquanto não ativar os serviços do Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ativar serviços do Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não é executado sem os Serviços do Google Play, os quais estão em falta no seu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Obter serviços do Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erro dos Serviços do Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> está a ter problemas com os Serviços do Google Play. Tente novamente."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Não é possível executar o <ns1:g id="APP_NAME">%1$s</ns1:g> sem os Serviços do Google Play, os quais não são compatíveis com o seu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não é executado enquanto não atualizar os serviços do Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Atualizar serviços do Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"O <ns1:g id="APP_NAME">%1$s</ns1:g> não é executado sem os serviços do Google Play, os quais estão a ser atualizados."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"É necessária uma nova versão dos serviços do Google Play. Esta será atualizada automaticamente em breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir no telemóvel"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sessão"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sessão com o Google"</string>
+    <string name="connect_server_fail_prompt_toast">"Não é possível ligar ao servidor."</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Diversas"</string>
+    <string name="getting_message_fail_prompt_toast">"Não é possível obter a informação."</string>
+    <string name="hms_abort" priority="translator">"Parar"</string>
+    <string name="hms_abort_message" priority="translator">"Parar a transferência?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s não consegue utilizar os Serviços Móveis Huawei. Aceda ao Gestor do Telefone ou às Definições, conceda todas as permissões a %2$s (incluindo início automático e secundário) e tente novamente."</string>
+    <string name="hms_cancel" priority="translator">"Cancelar"</string>
+    <string name="hms_check_failure" priority="translator">"Falha ao procurar atualizações."</string>
+    <string name="hms_check_no_update" priority="translator">"Já está a utilizar a versão mais recente."</string>
+    <string name="hms_checking" priority="translator">"A procurar atualizações…"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Falha ao transferir o pacote do Huawei Mobile Services."</string>
+    <string name="hms_download_no_space" priority="translator">"Sem espaço disponível. Não é possível concluir a transferência."</string>
+    <string name="hms_download_retry" priority="translator">"Falha na transferência. Tentar novamente?"</string>
+    <string name="hms_downloading" priority="translator">"A transferir Huawei Mobile Services: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"A transferir"</string>
+    <string name="hms_downloading_new" priority="LT">"A transferir HMS"</string>
+    <string name="hms_gamebox_name" priority="LT">"GameCenter"</string>
+    <string name="hms_install" priority="translator">"Instalar"</string>
+    <string name="hms_install_message" priority="translator">"O Huawei Mobile Services deve estar instalado para utilizar esta funcionalidade. Instalar?"</string>
+    <string name="hms_push_channel" priority="translator">"Predefinido"</string>
+    <string name="hms_retry" priority="translator">"OK"</string>
+    <string name="hms_update" priority="translator">"Atualizar"</string>
+    <string name="hms_update_message" priority="translator">"Atualize para a versão mais recente do Huawei Mobile Services para utilizar esta funcionalidade. Atualizar?"</string>
+    <string name="hms_update_message_new" priority="LT">"Este dispositivo requer a versão mais recente da seguinte aplicação:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+    <string name="no_available_network_prompt_toast">"Sem ligação à Internet. Verifique as definições de rede."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"Cancelar a instalação?"</string>
+    <string name="third_app_dl_install_failed">"Falha ao instalar."</string>
+    <string name="third_app_dl_sure_cancel_download">"OK"</string>
+    <string name="upsdk_app_dl_installing">"A transferir o HiApp"</string>
+    <string name="upsdk_app_download_info_new">"Instalar"</string>
+    <string name="upsdk_app_size">"Tamanho:"</string>
+    <string name="upsdk_app_version">"Versão:"</string>
+    <string name="upsdk_cancel">"Cancelar"</string>
+    <string name="upsdk_checking_update_prompt">"A procurar atualizações…"</string>
+    <string name="upsdk_choice_update">"Atualização disponível. Transfira e instale a versão mais recente."</string>
+    <string name="upsdk_detail">"Detalhes"</string>
+    <string name="upsdk_install">"Instale a atualização do HiApp. Instalar?"</string>
+    <string name="upsdk_ota_app_name">"Aplicação:"</string>
+    <string name="upsdk_ota_cancel">"Mais tarde"</string>
+    <string name="upsdk_ota_force_cancel_new">"Sair"</string>
+    <string name="upsdk_ota_notify_updatebtn">"Atualizar"</string>
+    <string name="upsdk_ota_title">"Versão nova"</string>
+    <string name="upsdk_update_check_no_new_version">"Já está a utilizar a versão mais recente."</string>
+    <string name="upsdk_updating">"A atualizar"</string>
+</resources>

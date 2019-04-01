@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\custom_notification_activity_menu.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\menu\\custom_notification_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\notification_menu.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\menu\\notification_menu.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\nim_contacts_search_menu.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\menu\\nim_contacts_search_menu.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_menu.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\global_search_menu.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\menu\\global_search_menu.xml"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_rp_slide_right_out.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\anim\\jrmf_rp_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_w_actionsheet_dialog_in.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\anim\\jrmf_w_actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_rp_slide_right_in.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\anim\\jrmf_rp_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_w_actionsheet_dialog_out.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\anim\\jrmf_w_actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\jrmf_rp_fade_out.xml",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\anim\\jrmf_rp_fade_out.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\anim\\abc_popup_exit.xml"
+    }
+]

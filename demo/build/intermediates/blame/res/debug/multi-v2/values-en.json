@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,190,284,1000,644,366,457,561,730,814,908",
+                        "endColumns": "41,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "92,185,279,361,1084,725,452,556,639,809,903,995"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,251,344,438,520,609,695,786,890,973,1057,1151",
+                        "endColumns": "41,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "92,339,433,515,604,690,781,885,968,1052,1146,1238"
+                    }
+                },
+                {
+                    "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,162",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "100,157,204"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "97,147,204",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "142,199,246"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,190,284,1000,644,366,457,561,730,814,908",
+                        "endColumns": "41,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "92,185,279,361,1084,725,452,556,639,809,903,995"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,251,344,438,520,609,695,786,890,973,1057,1151",
+                        "endColumns": "41,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "92,339,433,515,604,690,781,885,968,1052,1146,1238"
+                    }
+                },
+                {
+                    "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,162",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "100,157,204"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "97,147,204",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "142,199,246"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1546 @@
+[
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_camera.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_camera.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_close_camera_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_selected.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_image_selected.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_checked.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_icon_checked.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\683f1bdd7267893435d07036afc5fba6\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_speaker_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_close_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_microphone_mute_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_microphone_mute_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_ppt.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_ppt.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_checked.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_speaker_icon_checked.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_selected.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_moon_page_selected.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_pause.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_download_pause.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_speaker_icon_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_red_packet_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\drawable-hdpi\\message_plus_red_packet_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_audio_record_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_volume.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_volume.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\address.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\address.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_close.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_audio_close.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_2.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_2.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_icon_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_call_wifi_unavailable.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_audio_call_wifi_unavailable.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_disable_user_audio_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_disable_user_audio_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jrmf_rmb.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\jrmf_rmb.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_send_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\drawable-hdpi\\red_packet_send_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_jpg.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_jpg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_audio_record_icon_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_five.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_five.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_unknow.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_unknow.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_camera_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_1.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\network_grade_1.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_refuse_bg_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_refuse_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_keyboard.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_trans_fail.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_trans_fail.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_one.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_one.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_7.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_7.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_gif.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_gif.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_play_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_announce.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\chat_room_announce.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_left_type_audio.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_left_type_audio.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_record_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_close_video_send.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_close_video_send.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_green_btn_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_logo_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_txt.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_txt.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_camera_mute.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_camera_mute.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_call_bg.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_call_bg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_start_btn.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_capture_start_btn.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_record_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_admin_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_admin_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_search_view_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_nomal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\g_red_long_btn_nomal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_9.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_9.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_unsupport_mime_type.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_unsupport_mime_type.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_72.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_72.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_robot_link_view_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_robot_link_view_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_unselected.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_moon_page_unselected.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_left_type_video.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_left_type_video.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_icon_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_switch_camera.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_switch_camera.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_robot.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_robot.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_checked.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_audio_record_icon_checked.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_hangup_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_hangup_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_voice_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_voice_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_switch_mode_audio_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_switch_mode_audio_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_record_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_record_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_edit_delete.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_edit_delete.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_two.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_two.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_mute_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_pdf.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_pdf.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_computer.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_my_computer.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_txt.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_txt.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\683f1bdd7267893435d07036afc5fba6\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_sample_footer_loading.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_rts_send.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\icon_rts_send.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_advanced_team.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_advanced_team.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras_hover.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_cameras_hover.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img_failed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_default_img_failed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_right_type_audio.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_right_type_audio.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_actionbar_robot_info.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_ic_actionbar_robot_info.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_white_round_button.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_multiport.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_default.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_image_default.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_account_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\user_account_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_camera_mute_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_camera_mute_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_refuse_bg_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_refuse_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_hangup.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_hangup.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_delete_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_create_btn.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp3.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_mp3.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_microphone_mute.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_microphone_mute.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_del.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_del.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_team_announce.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\bg_team_announce.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_menu_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_menu_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_avatar_default.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_avatar_default.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\login_bg.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_loading.gif",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_loading.gif"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_rar.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_rar.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_36.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_36.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_volume_mute_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_volume_mute_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_white_round_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mo_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\mo_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_bg.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\welcome_bg.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_open.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_audio_open.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_off.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle_off.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_download_failed.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_image_download_failed.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_team.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_team.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\multi_select_switch_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\multi_select_switch_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_rts_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_menu_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_menu_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp4.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_mp4.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_close_camera_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_switch_camera_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_reddot.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_reddot.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\btn_loaction_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_excel.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_excel.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport_detail.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_multiport_detail.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_secretary.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_secretary.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pin.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_mute_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_microphone.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_microphone.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_announce.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\no_announce.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_grey_delete_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_grey_delete_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_html.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_html.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_three.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_three.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_speaker_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_volume_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_volume_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_video_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_switch_mode_video_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_switch_mode_video_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_3.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\network_grade_3.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_voice_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_music_icon_play.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_music_icon_play.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_58.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_58.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_jpg.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_jpg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_dark_logo_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_right_type_video.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_right_type_video.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_switch_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_new_message_notify.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_new_message_notify.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_black_more_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\action_bar_black_more_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_audio_mode_switch_bg_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\video_audio_mode_switch_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_8.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_8.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_word.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_word.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\multi_select_switch_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\multi_select_switch_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_verify_remind.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\icon_verify_remind.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_rev_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\drawable-hdpi\\red_packet_rev_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\683f1bdd7267893435d07036afc5fba6\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_switch_camera_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_emotion.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_word.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_word.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jump.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\jump.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_receive_bg_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_receive_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_owner_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_owner_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_logo.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\about_logo.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_zip.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_zip.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9ba58681ab56ccefe431c2b52a450fce\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_dialog_toast_bg.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_dialog_toast_bg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_bg_message_tip.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_bg_message_tip.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_unread_badge.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_unread_badge.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_add_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\683f1bdd7267893435d07036afc5fba6\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\683f1bdd7267893435d07036afc5fba6\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_add_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_png.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_png.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_no_pickup.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_no_pickup.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_receive_bg_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_receive_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_disable.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_speaker_bg_disable.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_excel.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_excel.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_rts_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_speaker_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_checkbox_not_checked.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_checkbox_not_checked.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_unselected.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_plus.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_black_list.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_black_list.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_avatar_default.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_avatar_default.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_four.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_four.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_red_round_button.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_master_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_master_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_audio_mode_switch_bg_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\video_audio_mode_switch_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_image_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_voice_normal_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_voice_normal_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_rev_press.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\drawable-hdpi\\red_packet_rev_press.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_ppt.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_ppt.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_p2p_add.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_p2p_add.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_robot_link_view_press_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_robot_link_view_press_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\683f1bdd7267893435d07036afc5fba6\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_html.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_html.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_record_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_icon_foreground.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\drawable-hdpi-v4\\leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_cameras.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_snapchat_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_0.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\network_grade_0.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_gif.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_gif.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\btn_loaction_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_microphone_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_microphone_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_notification.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.6.1.aar\\415330a8c10d7fa254fd7b3f76fa381a\\res\\drawable-hdpi-v4\\leak_canary_notification.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_dark_back_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_notify_msg.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_back_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_tip_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_bottom_logout_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_bottom_logout_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_rar.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_rar.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_57.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_57.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_file_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_video_chat_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_default_img.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_voice_mute.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_voice_mute.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\g_red_long_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dropdown_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_dropdown_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_audio_record_icon_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_2.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\network_grade_2.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_male.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_male.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_file_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_red_packet_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\drawable-hdpi\\message_plus_red_packet_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_5.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_5.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_guess_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_pdf.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_pdf.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_messge_history.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_ic_messge_history.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_disable.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_10.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_10.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_unknow.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_unknow.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_png.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_png.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_speaker_icon_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_6.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_6.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_1.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_1.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_female.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_female.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_tip_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_failed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_failed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_arrow_right.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_arrow_right.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nim_red_round_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_white_logo_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_video_chat_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_switch_camera_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_switch_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74b36b10b505a2c6572aafdf5f0306a2\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_on.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle_on.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_4.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_4.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_64.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_64.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_disable_user_audio.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_disable_user_audio.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\683f1bdd7267893435d07036afc5fba6\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_send_press.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\drawable-hdpi\\red_packet_send_press.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nick_name_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\nick_name_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_49.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_49.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_resume.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_download_resume.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp4.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_mp4.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_admin_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_admin_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_checked.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_mute_speaker_bg_checked.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_loading_small_white.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_loading_small_white.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_checked.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_orignal_checked.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_volume_mute.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_volume_mute.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp3.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_mp3.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_voice_mute_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_voice_mute_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_open_tip.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res-rp\\drawable-hdpi\\red_packet_open_tip.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_37.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_37.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\marker_info_bg.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\marker_info_bg.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_50.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_50.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_location_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_avchat_disable_user_audio_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\t_avchat_disable_user_audio_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3418559fd4ee011bc2aea2aad5f941f0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_3.webp",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_3.webp"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_zip.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_zip.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_pwd_lock_icon.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_disable.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_mute_disable.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_white_normal.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\edittext_white_normal.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_pressed.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_snapchat_pressed.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_bottom_logout_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\avchat_video_bottom_logout_normal.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_avatar_group.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_avatar_group.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png"
+    },
+    {
+        "merged": "E:\\FlutterProjects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_normal.png",
+        "source": "E:\\FlutterProjects\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_orignal_normal.png"
+    }
+]

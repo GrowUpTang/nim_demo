@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Điều hướng lên trên"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Thêm tùy chọn"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"TẮT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BẬT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Tìm kiếm truy vấn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Bật"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Bật dịch vụ của Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Cài đặt"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Cài đặt dịch vụ của Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Lỗi dịch vụ của Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có các dịch vụ của Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Cập nhật"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Cập nhật dịch vụ của Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Mở trên điện thoại"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Đăng nhập"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Đăng nhập bằng Google"</string>
+    <string name="connect_server_fail_prompt_toast">"Không thể kết nối với máy chủ. Vui lòng thử lại sau."</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Khác"</string>
+    <string name="getting_message_fail_prompt_toast">"Không thể truy xuất thông tin. Vui lòng thử lại sau."</string>
+    <string name="hms_abort" priority="translator">"Dừng"</string>
+    <string name="hms_abort_message" priority="translator">"Bạn muốn dừng tải về?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s không thể sử dụng Dịch vụ Di động Huawei. Vui lòng khởi chạy Trình quản lý Điện thoại hoặc chuyển tới mục Cài đặt để bật tất cả quyền cho %2$s (bao gồm tự động khởi chạy và khởi chạy thứ cấp), sau đó thử lại."</string>
+    <string name="hms_cancel" priority="translator">"Hủy"</string>
+    <string name="hms_check_failure" priority="translator">"Kiểm tra cập nhật thất bại."</string>
+    <string name="hms_check_no_update" priority="translator">"Bạn đang sử dụng phiên bản mới nhất."</string>
+    <string name="hms_checking" priority="translator">"Đang kiểm tra cập nhật..."</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Thất bại tải về gói Dịch vụ Di động Huawei."</string>
+    <string name="hms_download_no_space" priority="translator">"Không đủ không gian trống. Không thể hoàn tất tải về máy."</string>
+    <string name="hms_download_retry" priority="translator">"Tải về thất bại. Thử lại?"</string>
+    <string name="hms_downloading" priority="translator">"Đang tải về Dịch vụ Di động Huawei | tiến độ: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"Đang tải xuống"</string>
+    <string name="hms_downloading_new" priority="LT">"Đang tải về HMS"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"Cài đặt"</string>
+    <string name="hms_install_message" priority="translator">"Bạn cần cài đặt Dịch vụ Di động Huawei mới có thể sử dụng tính năng này. Cài đặt?"</string>
+    <string name="hms_push_channel" priority="translator">"Mặc định"</string>
+    <string name="hms_retry" priority="translator">"Thử lại"</string>
+    <string name="hms_update" priority="translator">"Cập nhật"</string>
+    <string name="hms_update_message" priority="translator">"Để sử dụng tính năng này bạn cần cập nhật phiên bản mới nhất của Dịch vụ Di động Huawei. Cập nhật ngay?"</string>
+    <string name="hms_update_message_new" priority="LT">"Dịch vụ này cần các ứng dụng sau sử dụng phiên bản mới nhất:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Dịch vụ Di động Huawei"</string>
+    <string name="no_available_network_prompt_toast">"Không có kết nối Internet. Vui lòng kiểm tra cài đặt mạng của bạn."</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Tìm kiếm"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex">"Hủy cài đặt?"</string>
+    <string name="third_app_dl_install_failed">"Cài đặt không thành công."</string>
+    <string name="third_app_dl_sure_cancel_download">"Đúng"</string>
+    <string name="upsdk_app_dl_installing">"Đang tải xuống HiApp"</string>
+    <string name="upsdk_app_download_info_new">"Cài đặt"</string>
+    <string name="upsdk_app_size">"Kích cỡ"</string>
+    <string name="upsdk_app_version">"Phiên bản"</string>
+    <string name="upsdk_cancel">"Hủy"</string>
+    <string name="upsdk_checking_update_prompt">"Đang kiểm tra bản cập nhật…"</string>
+    <string name="upsdk_choice_update">"Có sẵn bản cập nhật. Hãy tải xuống và cài đặt phiên bản mới nhất."</string>
+    <string name="upsdk_detail">"Chi tiết"</string>
+    <string name="upsdk_install">"Cài đặt HiApp để cập nhật. Cài đặt ngay bây giờ?"</string>
+    <string name="upsdk_ota_app_name">"Ứng dụng"</string>
+    <string name="upsdk_ota_cancel">"Để sau"</string>
+    <string name="upsdk_ota_force_cancel_new">"Thoát"</string>
+    <string name="upsdk_ota_notify_updatebtn">"Cập nhật"</string>
+    <string name="upsdk_ota_title">"Phiên bản mới"</string>
+    <string name="upsdk_update_check_no_new_version">"Bạn đang sử dụng phiên bản mới nhất."</string>
+    <string name="upsdk_updating">"Đang cập nhật"</string>
+</resources>
